@@ -1,0 +1,30 @@
+{
+  "short_name": "Solo Fitness",
+  "name": "Solo Leveling Fitness",
+  "description": "Gamified fitness PWA — level up your body like Sung Jin-Woo!",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#7c3aed",
+  "background_color": "#0f0f23",
+  "categories": ["health", "fitness", "lifestyle"]
+}
